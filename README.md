@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0242-valid-anagram) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 ## Math
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
