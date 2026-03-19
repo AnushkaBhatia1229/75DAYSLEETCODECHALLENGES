@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 ## String
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
