@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0002-add-two-numbers) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
