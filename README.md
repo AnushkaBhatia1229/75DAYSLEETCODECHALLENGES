@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0002-add-two-numbers) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Quickselect
 |  |
 | ------- |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 <!---LeetCode Topics End-->
