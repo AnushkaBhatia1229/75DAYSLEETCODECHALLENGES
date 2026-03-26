@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3354-make-array-elements-equal-to-zero](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Linked List
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3354-make-array-elements-equal-to-zero](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Combinatorics
 |  |
