@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Heap (Priority Queue)
 |  |
