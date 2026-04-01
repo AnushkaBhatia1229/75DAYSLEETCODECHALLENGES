@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0643-maximum-average-subarray-i) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0424-longest-repeating-character-replacement) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0011-container-with-most-water) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
 ## Union-Find
