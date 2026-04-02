@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Union-Find
 |  |
 | ------- |
