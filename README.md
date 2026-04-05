@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0739-daily-temperatures) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
