@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0739-daily-temperatures) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0605-can-place-flowers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
