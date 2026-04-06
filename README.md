@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0739-daily-temperatures) |
+| [0874-walking-robot-simulation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0874-walking-robot-simulation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0874-walking-robot-simulation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0874-walking-robot-simulation) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
