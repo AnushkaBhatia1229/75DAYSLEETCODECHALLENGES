@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0657-robot-return-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1768-merge-strings-alternately) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
