@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2906-construct-product-matrix) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1768-merge-strings-alternately](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1768-merge-strings-alternately) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
