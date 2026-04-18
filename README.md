@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
