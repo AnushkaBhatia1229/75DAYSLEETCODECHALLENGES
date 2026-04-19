@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2463-minimum-total-distance-traveled](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2463-minimum-total-distance-traveled) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0704-binary-search) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3488-closest-equal-element-queries](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3488-closest-equal-element-queries) |
