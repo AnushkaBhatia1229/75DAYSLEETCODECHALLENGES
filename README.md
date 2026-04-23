@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-total-distance-traveled](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0874-walking-robot-simulation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0874-walking-robot-simulation) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2615-sum-of-distances](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3488-closest-equal-element-queries](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3488-closest-equal-element-queries) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2615-sum-of-distances](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
