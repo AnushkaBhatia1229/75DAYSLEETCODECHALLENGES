@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2833-furthest-point-from-origin](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2833-furthest-point-from-origin) |
 ## Quickselect
 |  |
 | ------- |
