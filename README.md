@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
@@ -401,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0211-design-add-and-search-words-data-structure) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
