@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0874-walking-robot-simulation) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2463-minimum-total-distance-traveled) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3643-flip-square-submatrix-vertically) |
