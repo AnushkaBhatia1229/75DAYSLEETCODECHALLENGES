@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0739-daily-temperatures) |
 | [0874-walking-robot-simulation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0875-koko-eating-bananas) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
