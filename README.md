@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0572-subtree-of-another-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
