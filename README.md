@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1046-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Matrix
 |  |
