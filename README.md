@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1046-last-stone-weight) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0621-task-scheduler) |
 | [0874-walking-robot-simulation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0874-walking-robot-simulation) |
 | [0904-fruit-into-baskets](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0904-fruit-into-baskets) |
+| [0997-find-the-town-judge](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0997-find-the-town-judge) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2615-sum-of-distances](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -525,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0703-kth-largest-element-in-a-stream) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
