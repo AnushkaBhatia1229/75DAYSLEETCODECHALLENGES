@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0217-contains-duplicate) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0212-word-search-ii) |
 | [0733-flood-fill](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0733-flood-fill) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0733-flood-fill) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -419,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2573-find-the-string-with-lcp) |
