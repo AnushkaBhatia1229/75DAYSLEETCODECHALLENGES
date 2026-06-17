@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0977-squares-of-a-sorted-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2463-minimum-total-distance-traveled](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Backtracking
 |  |
@@ -570,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [2280-minimum-lines-to-represent-a-line-chart](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bit Manipulation
 |  |
