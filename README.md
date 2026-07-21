@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/AnushkaBhatia1229/75DAYSLEETCODECHALLENGES/tree/master/0605-can-place-flowers) |
